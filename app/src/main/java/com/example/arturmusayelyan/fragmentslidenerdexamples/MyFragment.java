@@ -32,7 +32,7 @@ public class MyFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         Log.d("Artur","on CreateView Fragment");
-        return super.onCreateView(inflater, container, savedInstanceState);
+        return inflater.inflate(R.layout.my_fragment_layout,container,false);
     }
 
     @Override
