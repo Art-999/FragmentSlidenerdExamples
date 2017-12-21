@@ -3,4 +3,16 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intents and Intent Filters</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Activities is a skncjdkndcjknkcjencjkwenjcnejcnejnjenjenfjenjfnejfvnj</item>
+        <item>Services is a dnwjndjwenfjkwnfklwjnfdklwjfjklwjnkfwkfwkfkw</item>
+        <item>Content Providers is a djwndjwndfjwenefkjwnfkwnfkwnfkwnefkwenfkw</item>
+        <item>Intents and Intent Filters is a jbnjwbfkwbfwjkbnkjbjdfnwjdfnjnwjfwj</item>
+    </string-array>
 </resources>
